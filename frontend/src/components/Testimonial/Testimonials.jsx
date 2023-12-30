@@ -67,32 +67,30 @@ const Testimonials = () => {
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>My recent trip with Travel-With-Me was nothing short of a dream come true!
+             From the moment I inquired about their services to the last day of my journey, 
+             the team at Travel-With-Me demonstrated unparalleled professionalism and dedication.
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>John Doe</h6>
+               <h6 className='mb-0 mt-3'>Ali Ahmed</h6>
                <p>Customer</p>
             </div>
          </div> 
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>My experience with Travel-With-Me surpassed all expectations! 
+            From the initial planning stages to the last day of my trip, 
+            every detail was meticulously arranged, allowing me to focus on the joy of exploration.
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>John Doe</h6>
+               <h6 className='mb-0 mt-3'>Abed Ameen</h6>
                <p>Customer</p>
             </div>
          </div> 

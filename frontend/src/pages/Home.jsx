@@ -96,8 +96,8 @@ const Home = () => {
                   <div className="experience__content">
                      <Subtitle subtitle={'Experience'} />
                      <h2>With our all experience <br /> we will serve you</h2>
-                     <p>The company itself is a very successful company.
-                        <br /> Some of these times,he takes the inventor from where. </p>
+                     <p>With years of expertise, our company boasts a rich history of delivering exceptional travel experiences, 
+                        <br /> guided by a wealth of knowledge and a passion for exploration. </p>
                   </div>
 
                   <div className="counter__wrapper d-flex align-items-center gap-5">
