@@ -36,10 +36,10 @@ const Testimonials = () => {
 
    return <Slider {...settings}>
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>Booking my travel with Travel-With-Me was an absolute game-changer!
+             From start to finish, they crafted an experience that exceeded my expectations.
+              The itinerary was a perfect blend of adventure and relaxation, 
+              carefully tailored to showcase the best of each destination.
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
@@ -52,10 +52,9 @@ const Testimonials = () => {
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>Choosing Travel-With-Me for my recent trip was a decision I'll never regret.
+            The entire experience was nothing short of magical! From the initial planning stages to the final farewell,
+            every aspect was handled with expertise and genuine care.
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
