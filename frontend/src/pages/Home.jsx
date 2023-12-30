@@ -29,10 +29,12 @@ const Home = () => {
                      </div>
                      <h1>Traveling opens the door to creating <span className='hightlight'> memories</span></h1>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        Ullam ipsum nobis asperiores soluta voluptas quas voluptates.
-                        Molestiae tempora dignissimos, animi praesentium molestias perferendis
-                        porro expedita delectus. Soluta natus porro.
+                     Escape the ordinary and embrace the extraordinary with Travel-With-Me. 
+                     We're your gateway to a world of wanderlust, where every click opens the door to new horizons.
+                     Whether you're a seasoned explorer or a first-time traveler, our platform is designed to inspire,
+                     assist, and elevate your journey. Join us in unlocking the magic of travel – 
+                     where exploration meets seamless planning, and your next adventure is just a click away.
+                     Your voyage starts here at Travel-With-Me.
                      </p>
                   </div>
                </Col>
@@ -94,8 +96,8 @@ const Home = () => {
                   <div className="experience__content">
                      <Subtitle subtitle={'Experience'} />
                      <h2>With our all experience <br /> we will serve you</h2>
-                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        <br /> Quas aliquam, hic tempora inventore suscipit unde. </p>
+                     <p>The company itself is a very successful company.
+                        <br /> Some of these times,he takes the inventor from where. </p>
                   </div>
 
                   <div className="counter__wrapper d-flex align-items-center gap-5">
