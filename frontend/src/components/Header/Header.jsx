@@ -18,6 +18,10 @@ const nav__links = [
       path: '/tours',
       display: 'Tours'
    },
+   {
+      path: '/displayBooking',
+      display: 'MyBooking  '
+   },
 ]
 
 const Header = () => {
