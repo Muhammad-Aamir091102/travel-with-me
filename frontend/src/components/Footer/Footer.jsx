@@ -44,7 +44,11 @@ const Footer = () => {
                <Col lg='3'>
                   <div className="logo">
                      <img src={logo} alt="" />
+<<<<<<< HEAD
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, enim.</p>
+=======
+                     <p>Embark on unforgettable journeys with our travel website, where seamless planning meets extraordinary experiences.</p>
+>>>>>>> origin/master
                      <div className="social__link d-flex align-items-center gap-4">
                         <span>
                            <Link to='#'>
@@ -105,7 +109,11 @@ const Footer = () => {
                            <span><i class='ri-map-pin-line'></i></span>
                            Address:
                         </h6>
+<<<<<<< HEAD
                         <p className='mb-0'>Lorem</p>
+=======
+                        <p className='mb-0'>Islamabad</p>
+>>>>>>> origin/master
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -114,7 +122,11 @@ const Footer = () => {
                            Email:
                         </h6>
 
+<<<<<<< HEAD
                         <p className='mb-0'>Lorem</p>
+=======
+                        <p className='mb-0'>abedameen2016@gmail.com</p>
+>>>>>>> origin/master
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -123,7 +135,11 @@ const Footer = () => {
                            Phone:
                         </h6>
 
+<<<<<<< HEAD
                         <p className='mb-0'>Lorem</p>
+=======
+                        <p className='mb-0'>03025037651</p>
+>>>>>>> origin/master
                      </ListGroupItem>
                   </ListGroup>
                </Col>

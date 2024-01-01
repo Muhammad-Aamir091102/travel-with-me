@@ -11,7 +11,11 @@ const ThankYou = () => {
                <Col lg='12' className='pt-5 text-center'>
                   <div className="thank__you">
                      <span><i class='ri-checkbox-circle-line'></i></span>
+<<<<<<< HEAD
                      <h1 className='mb-3 fw-semibold'>Thank You</h1>
+=======
+                     <h1 className='mb-3 fw-semibold'>Thank You for choosing us</h1>
+>>>>>>> origin/master
                      <h3 className='mb-4'>Your Tour Is Bookked</h3>
 
                      <Button className='btn primary__btn w-25'><Link to='/home'>Back To Home</Link></Button>

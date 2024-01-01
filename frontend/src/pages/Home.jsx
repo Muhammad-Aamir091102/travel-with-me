@@ -29,6 +29,7 @@ const Home = () => {
                      </div>
                      <h1>Traveling opens the door to creating <span className='hightlight'> memories</span></h1>
                      <p>
+<<<<<<< HEAD
                      Welcome to a world of wanderlust and exploration, 
                      where the journey is as enchanting as the destination.
                       Our travel website is your passport to a tapestry of 
@@ -38,6 +39,14 @@ const Home = () => {
                        cities, or thes adrenaline rush of off-the-beaten-path adventures,
                         our curated collection of travel experiences is designed to ignite 
                         your sense of wanderlust.
+=======
+                     Escape the ordinary and embrace the extraordinary with Travel-With-Me. 
+                     We're your gateway to a world of wanderlust, where every click opens the door to new horizons.
+                     Whether you're a seasoned explorer or a first-time traveler, our platform is designed to inspire,
+                     assist, and elevate your journey. Join us in unlocking the magic of travel – 
+                     where exploration meets seamless planning, and your next adventure is just a click away.
+                     Your voyage starts here at Travel-With-Me.
+>>>>>>> origin/master
                      </p>
                   </div>
                </Col>
@@ -99,8 +108,13 @@ const Home = () => {
                   <div className="experience__content">
                      <Subtitle subtitle={'Experience'} />
                      <h2>With our all experience <br /> we will serve you</h2>
+<<<<<<< HEAD
                      <p>Embark on a journey with us and unleash the thrill of a lifetime as we curate unforgettable adventures for the daring souls who seek excitement beyond the ordinary.
                         <br /> Quas aliquam, hic tempora inventore suscipit unde. </p>
+=======
+                     <p>With years of expertise, our company boasts a rich history of delivering exceptional travel experiences, 
+                        <br /> guided by a wealth of knowledge and a passion for exploration. </p>
+>>>>>>> origin/master
                   </div>
 
                   <div className="counter__wrapper d-flex align-items-center gap-5">

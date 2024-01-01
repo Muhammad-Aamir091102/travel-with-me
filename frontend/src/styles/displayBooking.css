@@ -1,0 +1,64 @@
+
+.tour__content {
+  margin-top: 20px;
+}
+
+.tour__info {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.tour__rating {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.tour__extra-details {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.tour__reviews {
+  margin-top: 20px;
+}
+
+.rating__group {
+  cursor: pointer;
+}
+
+.review__input {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.review__input input {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.review__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.review__item img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.user__reviews {
+  margin-top: 10px;
+}
+
+.booking__content {
+  margin-top: 20px;
+}
+

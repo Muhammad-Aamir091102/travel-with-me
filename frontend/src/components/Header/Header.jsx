@@ -18,6 +18,13 @@ const nav__links = [
       path: '/tours',
       display: 'Tours'
    },
+<<<<<<< HEAD
+=======
+   {
+      path: '/displayBooking',
+      display: 'MyBooking  '
+   },
+>>>>>>> origin/master
 ]
 
 const Header = () => {
